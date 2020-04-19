@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ghost_react/static/css/main.f313fe98.chunk.css",
-    "main.js": "/ghost_react/static/js/main.62e47e70.chunk.js",
-    "main.js.map": "/ghost_react/static/js/main.62e47e70.chunk.js.map",
-    "runtime-main.js": "/ghost_react/static/js/runtime-main.70311bc3.js",
-    "runtime-main.js.map": "/ghost_react/static/js/runtime-main.70311bc3.js.map",
-    "static/js/2.1165c99e.chunk.js": "/ghost_react/static/js/2.1165c99e.chunk.js",
-    "static/js/2.1165c99e.chunk.js.map": "/ghost_react/static/js/2.1165c99e.chunk.js.map",
-    "index.html": "/ghost_react/index.html",
-    "precache-manifest.9b271ace1a125be5fa98675543776c57.js": "/ghost_react/precache-manifest.9b271ace1a125be5fa98675543776c57.js",
-    "service-worker.js": "/ghost_react/service-worker.js",
-    "static/css/main.f313fe98.chunk.css.map": "/ghost_react/static/css/main.f313fe98.chunk.css.map",
-    "static/js/2.1165c99e.chunk.js.LICENSE.txt": "/ghost_react/static/js/2.1165c99e.chunk.js.LICENSE.txt"
+    "main.css": "/UserBry11/ghost_react/static/css/main.f313fe98.chunk.css",
+    "main.js": "/UserBry11/ghost_react/static/js/main.0d1ad675.chunk.js",
+    "main.js.map": "/UserBry11/ghost_react/static/js/main.0d1ad675.chunk.js.map",
+    "runtime-main.js": "/UserBry11/ghost_react/static/js/runtime-main.bb05047f.js",
+    "runtime-main.js.map": "/UserBry11/ghost_react/static/js/runtime-main.bb05047f.js.map",
+    "static/js/2.1165c99e.chunk.js": "/UserBry11/ghost_react/static/js/2.1165c99e.chunk.js",
+    "static/js/2.1165c99e.chunk.js.map": "/UserBry11/ghost_react/static/js/2.1165c99e.chunk.js.map",
+    "index.html": "/UserBry11/ghost_react/index.html",
+    "precache-manifest.6fc7f3e830fa97c1743923bbd3f5146a.js": "/UserBry11/ghost_react/precache-manifest.6fc7f3e830fa97c1743923bbd3f5146a.js",
+    "service-worker.js": "/UserBry11/ghost_react/service-worker.js",
+    "static/css/main.f313fe98.chunk.css.map": "/UserBry11/ghost_react/static/css/main.f313fe98.chunk.css.map",
+    "static/js/2.1165c99e.chunk.js.LICENSE.txt": "/UserBry11/ghost_react/static/js/2.1165c99e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.70311bc3.js",
+    "static/js/runtime-main.bb05047f.js",
     "static/js/2.1165c99e.chunk.js",
     "static/css/main.f313fe98.chunk.css",
-    "static/js/main.62e47e70.chunk.js"
+    "static/js/main.0d1ad675.chunk.js"
   ]
 }
